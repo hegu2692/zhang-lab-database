@@ -1,50 +1,50 @@
-- title: General Information
+- title: "General Information"
   type: map
   contents:
-    - name: Jian Zhang, MBBS, PhD 
-    - title: Associate Chief Physician 
-    - email: dr.jian.zhang.phd@gmail.com 
+    - name: "Jian Zhang, MBBS, PhD"
+    - title: "Associate Chief Physician"
+    - email: "dr.jian.zhang.phd@gmail.com"
 
-- title: Education
+- title: "Education"
   type: time_table
   contents:
-    - title: PhD in Surgery 
-      institution: The Chinese University of Hong Kong 
+    - title: "PhD in Surgery"
+      institution: "The Chinese University of Hong Kong"
       year: 2015
-    - title: M.S in Surgery 
-      institution: Zhejiang University 
+    - title: "M.S in Surgery"
+      institution: "Zhejiang University"
       year: 2012
-    - title: MD
-      institution: Southern Medical University 
+    - title: "MD"
+      institution: "Southern Medical University"
       year: 2009
 
-- title: Experience
+- title: "Experience"
   type: time_table
   contents:
-    - title: Associate Chief Physician 
-      institution: The Seventh Affiliated Hospital of Sun Yat-sen University, Shen Zhen, China 
-      year: 2023 - Present
-    - title: Postdoctoral Research Fellow 
-      institution: University of Texas Health Science Center at Houston 
-      year: 2020 - 2021
-    - title: Postdoctoral Research Fellow 
-      institution: Texas A&M University, Irma Lerma Rangel College of Pharmacy 
-      year: 2019 - 2020
-    - title: Attending Surgeon 
-      institution: The First Affiliated Hospital of Sun Yat-sen University, Guang Zhou, China 
-      year: 2018 - 2023
-    - title: Surgery Residency (general surgery) 
-      institution: The First Affiliated Hospital of Sun Yat-sen University, Guang Zhou, China 
-      year: 2015 - 2018
+    - title: "Associate Chief Physician"
+      institution: "The Seventh Affiliated Hospital of Sun Yat-sen University, Shen Zhen, China"
+      year: "2023 - Present"
+    - title: "Postdoctoral Research Fellow"
+      institution: "University of Texas Health Science Center at Houston"
+      year: "2020 - 2021"
+    - title: "Postdoctoral Research Fellow"
+      institution: "Texas A&M University, Irma Lerma Rangel College of Pharmacy"
+      year: "2019 - 2020"
+    - title: "Attending Surgeon"
+      institution: "The First Affiliated Hospital of Sun Yat-sen University, Guang Zhou, China"
+      year: "2018 - 2023"
+    - title: "Surgery Residency (general surgery)"
+      institution: "The First Affiliated Hospital of Sun Yat-sen University, Guang Zhou, China"
+      year: "2015 - 2018"
 
-- title: Honors and Awards
+- title: "Honors and Awards"
   type: time_table
   contents:
-    - year: 2012-2015
-      title: Ph.D. scholarship, the Chinese University of Hong Kong [cite: 42]
+    - year: "2012-2015"
+      title: "Ph.D. scholarship, the Chinese University of Hong Kong"
     - year: 2012
-      title: Excellent postgraduate students’ award, Zhejiang University [cite: 41]
-    - year: 2010-2011
-      title: First class award of honor for graduate, Zhejiang University [cite: 39]
-    - year: 2009-2010
-      title: Kwang-Hua Scholarship, Zhejiang University [cite: 36]
+      title: "Excellent postgraduate students’ award, Zhejiang University"
+    - year: "2010-2011"
+      title: "First class award of honor for graduate, Zhejiang University"
+    - year: "2009-2010"
+      title: "Kwang-Hua Scholarship, Zhejiang University"

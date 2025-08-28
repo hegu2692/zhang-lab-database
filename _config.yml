@@ -6,12 +6,7 @@ title: Jian ZHANG, MBBS, PhD
 email: dr.jian.zhang.phd@gmail.com
 description: Associate Chief Physician, Department of Gastrointestinal Surgery. 
   Research focuses on gastrointestinal oncology and bioinformatics.
-affiliation: The Seventh Affiliated Hospital of Sun Yat-sen University, Shen Zhen, China
-
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+affiliation:Sun Yat-sen University, Shen Zhen, China
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------

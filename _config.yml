@@ -31,6 +31,15 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+navbar_pages:
+  - title: About
+    permalink: /
+  - title: publications
+    permalink: /publications/
+  - title: projects
+    permalink: /projects/
+  - title: teaching
+    permalink: /teaching/
 
 navbar_fixed: true
 footer_fixed: true

@@ -4,7 +4,8 @@
 
 title: Jian ZHANG, MBBS, PhD
 email: dr.jian.zhang.phd@gmail.com
-description: Associate Chief Physician, Department of Gastrointestinal Surgery. 
+description: >-
+  Associate Chief Physician, Department of Gastrointestinal Surgery.
   Research focuses on gastrointestinal oncology and bioinformatics.
 affiliation: Sun Yat-sen University, Shen Zhen, China
 back_to_top: true # set to false to disable the back to top button
@@ -243,14 +244,13 @@ jekyll-archives:
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
-
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Jian, J.]
 
   style: apa
   locale: en
